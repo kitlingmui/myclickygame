@@ -20,4 +20,4 @@ npm install material-ui
 npm install @material-ui/core
 npm install @material-ui/icons
 npm install shuffle-array
-
+npm install --save gh-pages
